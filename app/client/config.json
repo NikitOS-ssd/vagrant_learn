@@ -1,0 +1,7 @@
+{
+  "pause": 10000,
+  "clientTimeout": 1000,
+  "batchDelay": 1000,
+  "concurrency": 50,
+  "url": "http://192.168.84.123:3000/fast-levenshtein"
+}
